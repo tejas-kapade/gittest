@@ -1,0 +1,7 @@
+Hello There 
+
+This is first text file of pushing from Git 
+
+This is done in 23rd February 2025
+
+Have a nice day !!!
