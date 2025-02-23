@@ -1,7 +1,5 @@
-Hello There 
+Hello There !!
 
-This is first text file of pushing from Git 
+This is first time pushing new branch using git !!
 
-This is done in 23rd February 2025
-
-Have a nice day !!!
+Seems to be worked !!
